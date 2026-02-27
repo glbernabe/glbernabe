@@ -24,7 +24,7 @@ Me encuentro en constante evolución, actualmente centrado en el desarrollo back
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/derby/derby-original.svg" height="30" alt="DerbyDB" />
+  <img src="https://img.icons8.com/color/48/000000/apache-derby.png" height="30" alt="DerbyDB"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
   <img width="12" />
@@ -34,7 +34,7 @@ Me encuentro en constante evolución, actualmente centrado en el desarrollo back
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github_actions/github_actions-original.svg" height="30" alt="GitHub Actions" />
+  <img src="https://img.icons8.com/color/48/000000/github-actions.png" height="30" alt="GitHub Actions"/>
 </div>
 
 ---
