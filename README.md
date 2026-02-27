@@ -27,10 +27,4 @@ Me encuentro en constante evolución, actualmente centrado en el desarrollo back
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="WordPress" />
 </div>
 
----
-
-### 📊 Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pandiruu&layout=compact&theme=dracula" height="150" alt="Top Langs" />
-</div>
+----
